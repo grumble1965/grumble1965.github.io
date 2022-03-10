@@ -1,17 +1,17 @@
 body {
     background-color: #AEC6CF;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 h1 {
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-left: 20px;
 }
 
 h2 {
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-left: 20px;
 }
 
 p {
@@ -40,4 +40,13 @@ td {
     padding: 10px;
     border-bottom: 1px solid;
     border-collapse: collapse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section {
+    padding-top: 15px;
+}
+
+footer {
+    padding-top: 50px;
 }
